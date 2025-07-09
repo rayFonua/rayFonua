@@ -1,3 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+a+passionate+Cybersecurity+Enthusiast." alt="Typing SVG" />
+  <span style="color:#FF00FF; font-weight:bold; text-shadow: 0 0 10px #FF00FF;">
+    Hi! I'm a passionate Cybersecurity Enthusiast 👩‍💻
+  </span>
 </h1>
+
