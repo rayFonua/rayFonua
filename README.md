@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Cybersecurity+Journey...;Red+Team+Operations+%7C+Penetration+Testing;TryHackMe+%7C+Hack+The+Box+%7C+CTF+Champion;Ethical+Hacking+%7C+Digital+Forensics;Building+Skills+One+Challenge+At+A+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Cybersecurity+Journey...;Red+Team+Operations+%7C+Penetration+Testing;TryHackMe+%7C+Hack+The+Box;Ethical+Hacking+%7C+Digital+Forensics;Building+Skills+One+Challenge+At+A+Time" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -65,7 +65,6 @@ rayFonua
 - 🛡️ **Red Team Operations** - Penetration testing, vulnerability assessment, and offensive security
 - 🧩 **CTF Challenges** - Love solving complex cyber puzzles and digital forensics cases  
 - 🔍 **Continuous Learning** - Always exploring new attack vectors and defense mechanisms
-- 🤝 **Knowledge Sharing** - Documenting my journey to help other aspiring security professionals
 
 ---
 
@@ -123,18 +122,6 @@ Cloud Security               ████████░░░░░░░░░
 - 📚 **Microsoft SC 900** - Planned 2025
 ---
 
-## 🔥 **Featured Repositories**
-
-<div align="center">
-
-[![WiCyS CTF Writeups](https://github-readme-stats.vercel.app/api/pin/?username=rayFonua&repo=wicys-target-defense-2025&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/rayFonua/wicys-target-defense-2025)
-
-*More repositories coming soon!*
-
-</div>
-
----
-
 ## 📈 **Activity & Contribution**
 
 <div align="center">
@@ -145,7 +132,7 @@ Cloud Security               ████████░░░░░░░░░
 
 ---
 
-## 🌐 **Let's Connect & Collaborate**
+## 🌐 **Feel free to connect with me!**
 
 <div align="center">
 
@@ -155,7 +142,7 @@ Cloud Security               ████████░░░░░░░░░
 - 📚 **Knowledge Sharing Sessions**
 - 💼 **Cybersecurity Mentorship**
 
-### **📫 Connect With Me:**
+### **📫 Connect With Me On:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lesieli-fonua-7b5951239)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([your-discord-url](https://discordapp.com/users/700509345141620778))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fonualesieli2@gmail.com)
@@ -170,21 +157,20 @@ Cloud Security               ████████░░░░░░░░░
 <tr>
 <td width="50%">
 
-### **🎯 Short Term (Q3-Q4 2025)**
+### **🎯 Short Term Goals (2025)**
 - ✅ Complete WiCyS Tier 2 Challenge  
 - 🎯 Achieve In-progress Certifications
 - 📚 Attempt 50+ HackTheBox machines
 - 🏆 Participate in 5+ CTF competitions
 - 📝 Publish comprehensive learning guides
-
-</td>
-
+  
 </td>
 </tr>
 </table>
 
 ---
-
+<div>
+  
 ![Visitor Count](https://komarev.com/ghpvc/?username=rayFonua&color=FF00FF&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/rayFonua?color=FF00FF&style=for-the-badge&label=Followers)
 
