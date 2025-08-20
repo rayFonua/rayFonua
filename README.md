@@ -1,5 +1,6 @@
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Welcome+To+My+GitHub+Account....." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Account....;Red+Team+Ops+in+Progress.;TryHackMe+%7C+Hack+The+Box+%7C+CTFs" alt="Typing SVG" />
 </h1>
 
 <p align="center">
