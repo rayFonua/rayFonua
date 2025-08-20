@@ -137,14 +137,13 @@ Cloud Security               ████████░░░░░░░░░
 <div align="center">
 
 ### **🤝 Always open to:**
-- 🎯 **CTF Team Collaborations**
-- 🛡️ **Red Team Learning Groups**  
-- 📚 **Knowledge Sharing Sessions**
-- 💼 **Cybersecurity Mentorship**
+ 🎯 **CTF Team Collaborations**
+ 🛡️ **Red Team Learning Groups**  
+ 📚 **Knowledge Sharing Sessions**
+ 💼 **Cybersecurity Mentorship**
 
 ### **📫 Connect With Me On:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lesieli-fonua-7b5951239)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([your-discord-url](https://discordapp.com/users/700509345141620778))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fonualesieli2@gmail.com)
 
 </div>
