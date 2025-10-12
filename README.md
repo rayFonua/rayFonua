@@ -15,9 +15,9 @@
 
 <div align="center">
 
-## 🎯 **Current Mission: From Beginner to Red Team Professional**
+## 🎯 **My Cybersecurity Journey**
 
-*Passionate cybersecurity learner on a journey to learn offensive security, digital forensics, and ethical hacking*
+*I am passionate about ethical hacking, AI security, and the future of security in satellite systems*
 
 </div>
 
